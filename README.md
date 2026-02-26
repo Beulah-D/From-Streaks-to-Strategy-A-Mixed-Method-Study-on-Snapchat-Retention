@@ -6,11 +6,12 @@
 Led a mixed-method consumer insights study to understand what drives retention among Gen Z and Millennial Snapchat users, and how brand positioning influences behavioral intent.
 This project combined qualitative research with a 2×2 experimental design to test whether framing Snapchat as a messaging-first platform (vs entertainment-first) increases retention intent and ad receptiveness.
 
-## Full Slide Deck:
+## [Full Slide Deck](./MKT%20512_Final%20Presentation%20Slide%20Deck.pdf)
+
 ### Research Question: How do Gen Z and Millennial users engage with Snapchat, what drives retention or abandonment, and can messaging-first positioning strengthen behavioral intent and monetization potential?
 
 ## Methodology
-### Phase 1: Qualitative Research
+### Phase 1: [Qualitative Research](./MKT%20512%20Group%203_Qualitative%20Findings%20Report.pdf)
 - Conducted three 45-minute focus groups
 - Ethnographic observation of user behavior
 - Identified engagement and churn drivers
